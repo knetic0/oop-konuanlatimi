@@ -1,0 +1,25 @@
+{
+  "id": "1",
+  "name": "Mehmet",
+  "surname": "Solak",
+  "age": "19",
+  "position": "Junior Full Stack Developer",
+  "experience": 5,
+  "salary": "Your (Mr / Mr's MehmetSolak) Salary is : 7000"
+}{
+  "id": "2",
+  "name": "Alaettin",
+  "surname": "Ucan",
+  "age": "40",
+  "position": "pow(Senior, Senior) * Full Stack Computer Engineer",
+  "experience": 20,
+  "salary": "Your (Mr / Mr's AlaettinUcan) Salary is : 17500"
+}{
+  "id": "3",
+  "name": "Kadir",
+  "surname": "Akgun",
+  "age": "33",
+  "position": "Janitor",
+  "experience": 13,
+  "salary": "Your (Mr / Mr's KadirAkgun) Salary is : 4500"
+}
